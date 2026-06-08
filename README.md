@@ -10,7 +10,7 @@ PokeApp
 É um aplicativo mobile que permite explorar o universo Pokémon de forma rápida e intuitiva. O app consome dados em tempo real da PokeAPI, exibindo informações detalhadas sobre cada Pokémon, como tipos, estatísticas base, habilidades, peso e altura.
 
 
-Funcionalidades Principais
+## Funcionalidades Principais
 
 - 📖 Listagem paginada de todos os Pokémons com scroll infinito
 - 🔍 Busca por nome ou número do Pokémon
@@ -34,7 +34,7 @@ Endpoints utilizados:
 
 
 
-Instruções de Execução
+## Instruções de Execução
 
 ### Pré-requisitos
 - [Node.js](https://nodejs.org/) v18 ou superior
@@ -61,7 +61,7 @@ Após iniciar, escaneie o QR Code com o **Expo Go** no celular.
 
 ---
 
-## 6. Telas do Aplicativo
+##  Telas do Aplicativo
 
 ### 📱 Tela 1 — Pokédex (Listagem)
 Tela principal do app. Exibe todos os Pokémons em grade de 2 colunas com scroll infinito. Possui barra de busca para encontrar um Pokémon pelo nome ou número. Ao tocar em um card, o usuário é levado para a tela de detalhes.
@@ -92,7 +92,7 @@ Permite alternar entre tema claro e escuro (Dark/Light mode), exibe estatística
 <img width="415" height="855" alt="image" src="https://github.com/user-attachments/assets/bfbd7029-26ac-4c32-b472-24bd2a2f2843" />
 
 
- Requisitos Técnicos Implementados
+ ## Requisitos Técnicos Implementados
 
 | Requisito | Implementação |
 |---|---|
